@@ -1,0 +1,21 @@
+#cta {
+    background-color: #ff4c68;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    height: 200px;
+}
+
+.cta-title {
+    font-weight: 700;
+    text-align: center;
+    padding: 10% 0;
+    margin: 0 2%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.bottom-buttons {
+    margin: 4px 5px 4%;
+}

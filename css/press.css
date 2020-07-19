@@ -1,0 +1,29 @@
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+
+#press img {
+    display: inline-block;
+    width: 40%;
+}
+
+.tc {
+    padding: 20px 0;
+    padding-right: 30px;
+}
+
+.tnw {
+    padding: 20px 0;
+    padding-left: 30px;
+}
+
+.bi {
+    padding: 0px 0 20px;
+    padding-right: 30px;
+}
+
+.mh {
+    padding: 0px 0 20px;
+    padding-left: 20px;
+}

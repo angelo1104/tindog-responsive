@@ -1,0 +1,52 @@
+     body {
+         overflow-x: hidden;
+         background-color: #ef8172;
+     }
+     
+     #title {
+         background-color: #ff4c68;
+         overflow-x: hidden;
+         height: auto;
+         overflow-y: hidden;
+     }
+     
+     .brand {
+         font-family: "Ubuntu", sans-serif;
+         font-size: 2rem;
+     }
+     
+     .header-title {
+         color: #fff;
+         font-family: "Montserrat", sans-serif;
+         font-size: 3rem;
+         font-weight: 900;
+         line-height: 1.5;
+         margin-top: 20px;
+         text-align: center;
+     }
+     
+     .download-button {
+         margin-top: 30px;
+         margin-bottom: 20px;
+         margin-right: 10px;
+     }
+     
+     .button-container {
+         text-align: center;
+     }
+     
+     .download-icon {
+         margin-right: 3px;
+     }
+     
+     .iphone {
+         position: relative;
+         z-index: 1;
+         width: 45%;
+         transform: rotate(25deg);
+         top: 85px;
+     }
+     
+     .iphone-container {
+         text-align: center;
+     }

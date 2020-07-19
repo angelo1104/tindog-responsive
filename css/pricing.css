@@ -1,0 +1,37 @@
+.pricing-card {
+    margin: 7% 15%;
+}
+
+.pricing-head {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    text-align: center;
+}
+
+.pricing-title {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.card-body p {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+.pricing-heading {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    text-align: center;
+    margin: 7% 15%;
+    line-height: 1.5;
+    font-size: 180%;
+}
+
+.pricing-description {
+    color: grey;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    margin: 7% 10%;
+    font-weight: 500;
+}

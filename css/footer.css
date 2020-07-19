@@ -1,0 +1,39 @@
+.footer-div-icon {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#footer {
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+    margin: 10px;
+}
+
+.footer-icon {
+    color: #212529;
+    margin: 3px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.fa-facebook-f:hover {
+    color: #1197F6;
+}
+
+.fa-twitter:hover {
+    color: #1DA1F2;
+}
+
+.fa-instagram:hover {
+    color: #D32E81;
+}
+
+.fa-envelope:hover {
+    color: #D4493C;
+}

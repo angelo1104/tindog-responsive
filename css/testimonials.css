@@ -1,0 +1,43 @@
+#testimonials {
+    background-color: #ef8172;
+    text-align: center;
+    color: #fff;
+}
+
+.testimonials-title {
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding: 10px 20px 5px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.testimonials-image {
+    width: 10%;
+    border-radius: 100%;
+}
+
+.testimonials-item {
+    padding: 20px 0px;
+}
+
+em {
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.prev {
+    position: relative;
+    bottom: 90px;
+    right: 10px;
+    width: 90%;
+}
+
+.next {
+    position: relative;
+    bottom: 90px;
+    left: 40px;
+    width: 90%;
+}

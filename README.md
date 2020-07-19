@@ -1,1 +1,1 @@
-# tindog-responsive
+TinDog Starting Files
